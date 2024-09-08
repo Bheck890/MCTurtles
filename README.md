@@ -2,7 +2,7 @@
 This was made to remember the complex systems that I made in the game
 to help with creating rockets across the modded game pack I made.
 Lua Code for Turtles in Mod MC, to re-supply resources
-Link to Pack I Made for me and Friend ![ModPack](https://www.technicpack.net/modpack/raisin-bread.1201315)
+Link to Pack I Made for me and Friend [ModPack](https://www.technicpack.net/modpack/raisin-bread.1201315)
 
 ## Examples
 A. Redstone brain for Food farming <br />
