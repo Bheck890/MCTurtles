@@ -11,16 +11,20 @@ A. Redstone brain for Food farming <br />
 ![alt text](docs/Diagrams/devices%20Package%20-%20Class%20Diagram.png)
 
 B. Food Farm <br />
-![alt text](docs/Diagrams/Database%20Diagram.png)
-![alt text](docs/Diagrams/Database%20Diagram.png)
+1. Seed Overview
+![alt text](ReadMe-Pics/Seeds/Seed-Farm.png)
+2. Seed Controller Setup Area
+![alt text](ReadMe-Pics/Seeds/Seed-Controller.png)
+3. Seed Controller Code<br />
+![Lua Code](ReadMe-Pics/Seeds/seed.lua)
 
 C. Tree Farm <br />
-1. Farm Over view
+1. Farm Overview
 ![alt text](ReadMe-Pics/Trees/Wood%20Farm.png)
 2. Farm Controller Setup Area
 ![alt text](ReadMe-Pics/Trees/Wood%20Controller.png)
-3. Farm Controller Code
-![alt text](ReadMe-Pics/Trees/wood.lua)
+3. Farm Controller Code<br />
+![Lua Code](ReadMe-Pics/Trees/wood.lua)
 
 ## Built With
 * Minecraft Redstone
